@@ -116,15 +116,15 @@ The paper presents a five-level maturity model (Initial → Managed → Defined 
 
 ### 4.1 Objective
 
-Pending full write-up.
+This article comprehensively analyzes how the integration of Artificial Intelligence and DevOps impacts the software development lifecycle. It seeks to understand how AI enhances DevOps practices, particularly regarding intelligent automation, pipeline optimization, and improvements in the quality, security, and operational efficiency of systems.
 
 ### 4.2 Method
 
-Pending full write-up.
+This article uses a systematic and descriptive literature review methodology, analyzing recent studies, industry practices, and real-world applications of AI in the DevOps context. The article adopts a qualitative approach, organizing and synthesizing existing contributions on the topic, as well as discussing practical examples and case studies in different sectors. There is no independent empirical experimentation, but rather a critical consolidation of existing knowledge, focusing on identifying patterns, benefits, and limitations of AI adoption.
 
 ### 4.3 Results
 
-Pending full write-up.
+The results demonstrate that the application of AI in DevOps promotes a significant evolution of the traditional model, transforming reactive processes into predictive and adaptive systems. Among the main findings, the article highlights improved development productivity through intelligent automation, optimized integration and continuous delivery pipelines with reduced failures and faster deployment speeds, and strengthened security with DevSecOps practices based on intelligent threat detection. The article also shows that, despite the gains, the adoption of AI brings significant challenges, such as dependence on quality data, risks of bias, and the need for team training. In conclusion, the author points out that the success of this integration depends on the balance between automation and human supervision, consolidating a collaborative model between people and intelligent systems.
 
 ---
 
@@ -137,15 +137,19 @@ Pending full write-up.
 
 ### 5.1 Objective
 
-Pending full write-up.
+The aim of this article is to analyze how test automation frameworks contribute to increasing the reliability of software systems, considering the use of widely adopted tools such as Selenium, Python-based frameworks, and API testing tools. The study seeks to understand how these technologies, when applied in a structured way, impact fault detection, system stability, and the efficiency of validation processes in modern development environments.
 
 ### 5.2 Method
 
-Pending full write-up.
+The method used is a systematic literature review, with a qualitative and analytical approach. The article is based on the analysis of several academic studies and industry evidence, organizing the results around the main categories of test automation tools and practices. The investigation considers different levels of interface, API, and unit testing and also evaluates how the combination of these layers, along with the use of good test engineering practices, influences the results obtained.
+
+There is no independent experimentation, but rather the consolidation and critical interpretation of already published data.
 
 ### 5.3 Results
 
-Pending full write-up.
+The results indicate that test automation, when well-structured, significantly contributes to improving software reliability. The article highlights gains such as increased defect detection rates, reduced production failures, and faster error identification and correction. It also demonstrates that layered strategies, with a greater focus on API and unit testing, are more efficient than excessive reliance on interface testing. On the other hand, the study points to relevant challenges, such as the maintenance of automated tests, the occurrence of unstable tests, and the complexity in managing the test environment.
+
+In conclusion, it reinforces that the benefits of automation depend not only on the tools used, but also on the systematic way in which tests are designed, organized, and integrated into the software development cycle.
 
 ---
 
@@ -158,15 +162,17 @@ Pending full write-up.
 
 ### 6.1 Objective
 
-Pending full write-up.
+The aim of this article is to investigate how performance metrics used in agile teams can be effectively aligned with OKRs (Objectives and Key Results), in order to connect operational execution to the strategic goals of organizations. The study seeks to understand which metrics are most used, how they relate to business objectives, and how this alignment varies across different industry sectors.
 
 ### 6.2 Method
 
-Pending full write-up.
+The method adopted is a systematic literature review, conducted in a structured and rigorous manner, based on protocols such as PRISMA. The article analyzes a large volume of academic studies and industry evidence, screening, selecting, and categorizing the most relevant research. The approach is qualitative and comparative, allowing the identification of patterns, trends, and variations in the application of metrics and OKRs in different organizational contexts and economic sectors.
 
 ### 6.3 Results
 
-Pending full write-up.
+The results show that, although traditional agile metrics are widely used to monitor operational performance, they do not, in isolation, guarantee alignment with strategic objectives. The use of OKRs emerges as an effective mechanism to fill this gap, promoting greater transparency and strategic direction. The study highlights that the integration between metrics and OKRs improves decision-making and the adaptability of teams, especially when supported by analytical tools and continuous feedback cycles. On the other hand, it also identifies important challenges, such as the difficulty of balancing quantitative metrics with qualitative objectives and the need for adaptation to the context of each sector.
+
+In conclusion, the article reinforces that effective alignment depends on a continuous, contextualized, and value-oriented approach, and not on the simple adoption of standardized metrics.
 
 ---
 
