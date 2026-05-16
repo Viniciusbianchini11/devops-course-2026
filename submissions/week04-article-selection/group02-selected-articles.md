@@ -40,9 +40,27 @@
 
 ## 3. Introdução
 
-- **Contexto:** Descrição detalhada do problema e motivação da revisão.  
-- **Objetivos:** Questões de pesquisa ou objetivos específicos.  
-- **Justificativa:** Importância da revisão e impacto esperado.  
+- **Contexto:**
+  
+O modelo DevOps transformou a engenharia de software ao encurtar drasticamente os ciclos de integração e entrega contínua (CI/CD). Visando a era da IA na engenharia de software e a introdução frequente de agentes inteligentes no ciclo de vida do desenvolvimento, surge a necessidade urgente de repensar como a segurança é tratada. Tradicionalmente vista como um gargalo final e isolado, a segurança precisa ser integrada de forma fluida e automatizada ao processo.
+
+- **Objetivos:**
+  
+O objetivo fundamental desta revisão é responder à seguinte Questão de Pesquisa Principal (RQ):
+
+RQ: De que forma a automação da análise estática de segurança (SAST) em pipelines de CI/CD contribui para reduzir custos, tempo de correção e riscos de exposição de vulnerabilidades do software em produção?
+
+Para desdobrar e aprofundar a investigação, foram definidas três Questões de Pesquisa Secundárias:
+
+RQ1: Como a identificação imediata de falhas de segurança nas fases iniciais do desenvolvimento (Shift Left) contribui para a agilidade da correção e a redução do acúmulo de erros?
+
+RQ2: Quais critérios podem ser usados para categorizar ferramentas SAST de acordo com diferentes contextos, como linguagens suportadas, tipos de vulnerabilidades detectadas, facilidade de configuração, modelo de licenciamento e recursos de integração?
+
+RQ3: Como a integração de ferramentas de SAST em pipelines de CI/CD impacta a qualidade da verificação de segurança no ciclo de desenvolvimento de software?
+  
+- **Justificativa:**
+
+Este estudo justifica-se pelo seu potencial em demonstrar que rapidez de entrega e conformidade de segurança podem coexistir de forma complementar quando apoiadas pela automação correta. Ao sintetizar a literatura recente, o trabalho oferece um guia prático para organizações analisarem as opções de ferramentas de análise estática de código, permitindo a escolha daquela que melhor se adequa ao seu ambiente técnico e acelerando a entrega de softwares genuinamente seguros.
 
 ---
 
