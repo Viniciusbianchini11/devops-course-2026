@@ -17,3 +17,7 @@ Upload the final report including:
 Example filename:
 
 group01-final-report.md
+
+## Follow the following paper template.
+
+[Link: SBC Conferences Template - updated sbc-template.sty v2017](https://www.overleaf.com/latex/templates/sbc-conferences-template-updated-sbc-template-dot-sty-v2017/pyhttxftxjqn)
